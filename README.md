@@ -16,25 +16,59 @@ Subject: Aditya Raj (alias: z3r0_ru135)
 Clearance: Level 4 [Top Secret]
 Specialization: Full-Chain Offensive Security
 Mission: Access, Exploit, and Secure.
-Philosophy: "The quieter you become, the more you are able to hear."
+Philosophy: "To secure a system, you must first learn how to break it."
 ```
 
 ---
 
-### 🛡️ TACTICAL_DASHBOARD: ARSENAL_0x15
+### 🛡️ TACTICAL_ARSENAL_DASHBOARD
 
-| **Phase** | **Weaponry & Platforms** |
-| :--- | :--- |
-| **RECON & OSINT** | `Amass` `Subfinder` `Shodan` `Maltego` `SpiderFoot` `Ffuf` `Dnsgen` |
-| **EXPLOITATION** | `BurpSuite Pro` `Metasploit` `SQLmap` `Commix` `Beef` `Exploit-DB` |
-| **C2 & POST-EXP** | `Cobalt Strike` `Sliver` `Empire` `Covenant` `Mimikatz` `BloodHound` |
-| **REVERSE & MOBILE** | `Ghidra` `GDB` `Frida` `Radare2` `Objection` `MobSF` `JEB` |
-| **CLOUD SEC** | `Pacu` `ScoutSuite` `Prowler` `Terraform` `Docker` `Kubernetes` |
-| **SYSTEMS** | `Kali Linux` `Parrot OS` `BlackArch` `Tails` `Qubes OS` |
+**[ 🕵️‍♂️ RECON_&_OSINT ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00ADD8?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maltego-FF6600?style=for-the-badge&logo=maltego&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpiderFoot-00B4CC?style=for-the-badge&logo=spiderfoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Check_Host-71D291?style=for-the-badge&logo=check-host&logoColor=white" />
+</p>
+
+**[ ⚔️ EXPLOITATION ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-ED1C24?style=for-the-badge&logo=nuclei&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-631A12?style=for-the-badge&logo=sqlmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beef-000000?style=for-the-badge&logo=beef&logoColor=white" />
+</p>
+
+**[ 📡 C2_&_POST_EXP ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cobalt_Strike-ED1C24?style=for-the-badge&logo=cobalt-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sliver-000000?style=for-the-badge&logo=sliver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logo=mimikatz&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloodHound-ED1C24?style=for-the-badge&logo=bloodhound&logoColor=white" />
+</p>
+
+**[ 📱 REVERSE_&_MOBILE ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-FFFFFF?style=for-the-badge&logo=frida&logoColor=black" />
+  <img src="https://img.shields.io/badge/GDB-00ADD8?style=for-the-badge&logo=gdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=radare2&logoColor=white" />
+</p>
+
+**[ ☁️ CLOUD_&_INFRA ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
 ---
 
-### 💻 SYSTEM_CORES: LANGUAGES_&_LOGIC
+### 💻 SYSTEM_CORES: LANGUAGES
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -42,7 +76,6 @@ Philosophy: "The quieter you become, the more you are able to hear."
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
