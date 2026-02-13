@@ -102,7 +102,7 @@ Philosophy: "To secure a system, you must first learn how to break it."
 
 ```bash
 $ nmap -sV thearadi15.github.io
-# 22/tcp open ssh  -> officialaditya15@gmail.com
+# 22/tcp open ssh  -> adityaraj919895@gmail.com
 # 80/tcp open http -> linkedin.com/in/thearadi15
 # 443/tcp open ssl -> @z3r0_ru135 (Twitter/X)
 ```
