@@ -94,7 +94,7 @@ Philosophy: "To secure a system, you must first learn how to break it."
 ### 📜 VALIDATED_CREDENTIALS
 
 > [!NOTE]
-> **CRTP** | **CNSP** | **Ethical Hacker (Cisco)** | **eJPT (In Progress)**
+> **CRTP** | **CNSP** | **Ethical Hacker (Cisco)**
 
 ---
 
